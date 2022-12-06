@@ -8,3 +8,5 @@ Para ejecutar el codigo, instalar las librerias numpy y scipy
 pip install numpy
 pip install scipy
 ```
+
+# Documento taller
