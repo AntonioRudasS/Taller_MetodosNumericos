@@ -1,5 +1,5 @@
 # Taller_MetodosNumericos
-Hecho por: Maria de la Peña y Antonio rudas
+Hecho en Matlab por: Maria de la Peña y Antonio rudas
 
 
 # Documento taller
