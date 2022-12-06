@@ -1,4 +1,4 @@
-function GaussSeidel(A, b, x, tol, m)
+function metgaussseidel(A, b, x, tol, m)
 n=leght(x);
 for k = 1:m
          w = x;
