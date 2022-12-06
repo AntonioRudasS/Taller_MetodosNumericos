@@ -16,4 +16,3 @@ for k = 1:m
              fprintf('             x(%1.0f)=%6.8f\n', i, x(i))       
          end
 end
-
